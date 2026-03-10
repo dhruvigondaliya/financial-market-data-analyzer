@@ -53,6 +53,17 @@ The dashboard automatically generates insights such as:
 - Correlation between financial assets
 - Market risk level based on volatility
 
+## Dashboard Preview
+
+### Market Overview Dashboard
+
+![Dashboard Preview 1](dashboard_preview1.png)
+
+### Risk & Correlation Analysis
+
+![Dashboard Preview 2](dashboard_preview2.png)
+
 ## Author
+
 
 Dhruvi Gondaliya
