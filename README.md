@@ -57,14 +57,15 @@ The dashboard automatically generates insights such as:
 
 ### Market Overview Dashboard
 
-![Dashboard Preview 1](dashboard_preview 1.png)
+![Dashboard Preview 1](dashboard_preview1.png)
 
 ### Risk & Correlation Analysis
 
-![Dashboard Preview 2](dashboard_preview 2.png)
+![Dashboard Preview 2](dashboard_preview2.png)
 
 ## Author
 
 
 Dhruvi Gondaliya
+
 
